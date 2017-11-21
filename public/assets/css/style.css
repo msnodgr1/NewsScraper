@@ -1,0 +1,37 @@
+.jumbotron{
+	background-image: url(../images/newsbg1.jpg);
+	background-size: 1494px 632px;
+    margin-bottom: 0px;
+}
+
+.display-3, .navbar{
+	font-family: 'Vollkorn', serif;
+}
+
+nav{
+	margin-top: 0px;
+}
+#bigLogo {
+    vertical-align: middle;
+    border-style: none;
+    height: 215px;
+    width: 265px;
+    float: right;
+    position: relative;
+    margin-top: -110px;
+    margin-right: 200px;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 25px;
+    padding: 20px;
+}
+
+#scrape, .btn{
+	background-color: #4B6E8C !important;
+}
+
+.card{
+    margin: 20px !important;
+}
+
+
+
